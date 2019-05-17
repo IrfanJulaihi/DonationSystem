@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:DonateID;datatype:int,name:Username;datatype:string,name:Amount;datatype:int,name:DateDonate;datatype:date,name:Status;datatype:string" />
+</info>
